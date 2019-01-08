@@ -1,0 +1,7 @@
+.idea/
+.settings/
+.vscode/
+target/
+.classpath
+.project
+traslate_caption.iml
